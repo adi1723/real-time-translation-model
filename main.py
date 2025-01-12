@@ -42,20 +42,7 @@ output_text.pack(pady=5)
 # Language codes and names
 language_codes = {
     "English": "en",
-    "Hindi": "hi",
-    # "Bengali": "bn",
-    # "Spanish": "es",
-    # "Chinese (Simplified)": "zh-CN",
-    # "Russian": "ru",
-    # "Japanese": "ja",
-    # "Korean": "ko",
-    # "German": "de",
-    # "French": "fr",
-    # "Tamil": "ta",
-    # "Telugu": "te",
-    # "Kannada": "kn",
-    # "Gujarati": "gu",
-    # "Punjabi": "pa"
+    "Hindi": "hi"
 }
 language_names = list(language_codes.keys())
 
